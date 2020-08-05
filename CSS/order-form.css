@@ -1,0 +1,17 @@
+
+body {
+    background-color: lightblue;
+}
+
+.container {
+padding: 15px;
+    border: solid 1px #c0c0c0;
+    box-shadow: 0 0 2px;
+    display: block;
+}
+
+.form {
+    padding: 3px;
+    display: block;
+    margin-bottom: 7px;
+}
